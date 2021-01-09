@@ -1,0 +1,2 @@
+D:\C _learn\day_18\Debug\day_18.exe
+D:\C _learn\day_18\Debug\day_18.pdb
