@@ -1,0 +1,2 @@
+D:\C _learn\Exercises\Debug\Exercises.exe
+D:\C _learn\Exercises\Debug\Exercises.pdb
